@@ -1,0 +1,39 @@
+# ディレクトリ
+node_modules/
+dist/
+build/
+coverage/
+
+# 環境設定ファイル
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# エディター設定
+.vscode/
+.idea/
+*.sublime*
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+# ログファイル
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# その他
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+*.pid.lock
+*.tsbuildinfo
+*.tgz
+*.zip
+*.tar.gz
